@@ -1,0 +1,1 @@
+{"name":"Local: template","url":"c:\\Users\\Admin\\Documents\\c++\\template.cpp","tests":[{"id":1632924432396,"input":"1\n2 3\ntest","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\c++\\template.cpp","group":"local","local":true}

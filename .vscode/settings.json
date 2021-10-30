@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "variant": "cpp",
+        "string": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

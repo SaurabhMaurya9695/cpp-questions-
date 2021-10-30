@@ -1,0 +1,1 @@
+{"name":"Local: x","url":"d:\\c++\\x.cpp","tests":[{"id":1633274012774,"input":"ABBAD","output":"1"},{"id":1633274497457,"input":"abcd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\x.cpp","group":"local","local":true}

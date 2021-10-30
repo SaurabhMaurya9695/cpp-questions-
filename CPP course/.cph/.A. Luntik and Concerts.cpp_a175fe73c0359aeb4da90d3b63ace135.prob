@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\c++\\CPP course\\A. Luntik and Concerts.cpp","tests":[{"id":1635079555764,"input":"4\n1 1 1\n2 1 3\n5 5 5\n1 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\CPP course\\A. Luntik and Concerts.cpp","group":"local","local":true}

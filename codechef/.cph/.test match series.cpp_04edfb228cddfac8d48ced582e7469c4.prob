@@ -1,0 +1,1 @@
+{"name":"Local: test match series","url":"d:\\c++\\codechef\\test match series.cpp","tests":[{"id":1634628419158,"input":"3\n0 1 2 1 0\n0 1 2 1 2\n2 2 2 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\codechef\\test match series.cpp","group":"local","local":true}
